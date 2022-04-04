@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Antonio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AntonioViniciusSBarreto&show_icons=true&hide_border=true&theme=dracula&count_private=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioViniciusSBarreto&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioViniciusSBarreto&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
