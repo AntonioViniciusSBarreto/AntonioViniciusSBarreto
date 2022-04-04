@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-soriani-6aa5a4217)
 
-[![AntonioViniciusSBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioViniciusSBarreto)](https://github.com/AntonioViniciusSBarreto/github-readme-stats)
+<img align="left" alt="Antonio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AntonioViniciusSBarreto&show_icons=true&hide_border=true&theme=dracula&count_private=true">
+
+<img align="left" alt="Antonio GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langsusername=AntonioViniciusSBarreto&theme=dracula&langs_count=8&hide_border=true">
