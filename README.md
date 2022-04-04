@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 🌱 Estou estudando HTML5 e CSS3 por conta própria
 - ⚡ Estou na busca pelo meu primeiro emprego
 - 💬 Sou entusiasta de hardware e linguagens de baixo nível
+
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AntonioViniciusSBarreto)
+
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-soriani-6aa5a4217)
+
+[![AntonioViniciusSBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioViniciusSBarreto)](https://github.com/AntonioViniciusSBarreto/github-readme-stats)
