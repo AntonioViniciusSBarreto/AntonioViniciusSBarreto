@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioViniciusSBarreto&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AntonioViniciusSBarreto&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
