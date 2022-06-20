@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Tenho 21 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC São Paulo
-- 🌱 Estou estudando React.js por conta própria
 - ⚡ Em busca do meu primeiro emprego
 - 💬 Sou entusiasta de hardware e linguagens de baixo nível
 
