@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Tenho 21 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC São Paulo
-- ⚡ Em busca do meu primeiro emprego
 - 💬 Sou entusiasta de hardware e linguagens de baixo nível
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AntonioViniciusSBarreto)
