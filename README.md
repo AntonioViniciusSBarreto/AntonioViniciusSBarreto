@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC São Paulo
+- 🔭 Estudei Análise e Desenvolvimento de Sistemas na FATEC São Paulo
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Tenho 21 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC São Paulo
+- 🔭 Tenho 24 anos e estudei Análise e Desenvolvimento de Sistemas na FATEC São Paulo
 - 💬 Sou entusiasta de hardware e linguagens de baixo nível
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AntonioViniciusSBarreto)
